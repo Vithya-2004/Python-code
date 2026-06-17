@@ -1,0 +1,9 @@
+n=int(input())
+l=list(map(int,input().split()))
+print(l)
+
+o/p;
+
+5
+41 52 52 52 57
+[41, 52, 52, 52, 57]
